@@ -1,0 +1,29 @@
+order_id,date,region,category,product,units,unit_price,discount_pct,unit_cost
+O1001,2026-01-03,North,Electronics,Headphones,2,80,0.10,42
+O1002,2026-01-05,South,Home,Blender,1,65,0,35
+O1003,2026-01-08,East,Accessories,Keyboard,3,35,0.05,16
+O1004,2026-01-12,West,Electronics,Speaker,1,120,0.15,70
+O1005,2026-01-18,North,Home,Coffee Maker,2,90,0.10,50
+O1006,2026-01-22,South,Accessories,Mouse,4,25,0,10
+O1007,2026-02-02,East,Electronics,Headphones,1,80,0,42
+O1008,2026-02-04,West,Home,Blender,2,65,0.05,35
+O1009,2026-02-09,North,Accessories,Keyboard,2,35,0.20,16
+O1010,2026-02-13,South,Electronics,Speaker,2,120,0.10,70
+O1011,2026-02-19,East,Home,Coffee Maker,1,90,0,50
+O1012,2026-02-24,West,Accessories,Mouse,5,25,0.10,10
+O1013,2026-03-01,North,Electronics,Headphones,3,80,0.15,42
+O1014,2026-03-06,South,Home,Blender,1,65,0.10,35
+O1015,2026-03-10,East,Accessories,Keyboard,1,35,0,16
+O1016,2026-03-14,West,Electronics,Speaker,1,120,0.05,70
+O1017,2026-03-19,North,Home,Coffee Maker,3,90,0.20,50
+O1018,2026-03-25,South,Accessories,Mouse,2,25,0.05,10
+O1019,2026-04-02,East,Electronics,Headphones,2,80,0.05,42
+O1020,2026-04-07,West,Home,Blender,3,65,0.15,35
+O1021,2026-04-11,North,Accessories,Keyboard,2,35,0.10,16
+O1022,2026-04-16,South,Electronics,Speaker,1,120,0,70
+O1023,2026-04-20,East,Home,Coffee Maker,2,90,0.05,50
+O1024,2026-04-27,West,Accessories,Mouse,4,25,0,10
+O1024,2026-04-27,West,Accessories,Mouse,4,25,0,10
+O1025,2026-04-29,North,Electronics,Headphones,1,80,1.20,42
+O1026,2026-04-30,South,Home,Blender,1,65,0.05,35
+O1027,2026-04-30,East,Accessories,Mouse,,25,0.05,10
