@@ -120,13 +120,3 @@ Replace that last sentence with a truthful description of what you actually ran 
 5. **What if SQL and Excel totals differ?** Check filters, join cardinality, duplicate keys, nulls, date boundaries, rounding, and metric definitions; reconcile with a small sample.
 6. **What is your weakness / why this role?** Use a genuine example; explain what you are learning and why this trainee role matches your interests. Do not invent company facts.
 
-## Before the interview
-
-- Run the script once and explain every quality rule and formula without reading the file.
-- Practice one SQL query with `GROUP BY` and one join; explain how you avoid double-counting.
-- Explain the project in 60–90 seconds, then answer “what would you do next?”
-- Review your resume and prepare one true example of learning, teamwork, and problem solving.
-- Prepare two questions: “What tools and data sources does the team use?” and “What would success look like for a trainee in the first few months?”
-- Sleep; in the interview, clarify ambiguous requirements and talk through your assumptions.
-
-The company-specific interview format and tools were not independently verified for this guide; use the job description or recruiter instructions as the source of truth.
